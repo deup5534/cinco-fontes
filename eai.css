@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: gray;
+}
+.titulo{
+    text-decoration: underline;
+}
+.uno{
+    color: blue;
+}
+.dos{
+    color: yellowgreen;
+}
+.tres{
+    color: tomato;
+}
+.cuatro{
+    color: purple;
+}
+.cinco{
+    color: aqua;
+}
+#meunome{
+    background-color: lightpink;
+    color: white;
+}
