@@ -1,4 +1,11 @@
-body{
+
+  @import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Yantramanav&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+  body{
     text-align: center;
     background-color: gray;
 }
@@ -7,18 +14,23 @@ body{
 }
 .uno{
     color: blue;
+    font-family: 'Crete Round', serif;
 }
 .dos{
     color: yellowgreen;
+    font-family: 'Yantramanav', sans-serif;
 }
 .tres{
     color: tomato;
+    font-family: 'Fira Code', monospace;
 }
 .cuatro{
     color: purple;
+    font-family: 'Oleo Script', cursive;
 }
 .cinco{
     color: aqua;
+    font-family: 'Satisfy', cursive;
 }
 #meunome{
     background-color: lightpink;
